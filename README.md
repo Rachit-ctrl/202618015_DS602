@@ -12,7 +12,6 @@ To run this dashboard on your own machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Rachit-ctrl/202618015_DS602.git](https://github.com/Rachit-ctrl/202618015_DS602.git)
-   cd 202618015_DS602
+   git clone https://github.com/Rachit-ctrl/202618015_DS602.git
 
    
